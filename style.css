@@ -8,13 +8,14 @@ body {
 }
 
 .photo {
-  padding-top: 2rem;
+  padding-top: 70px;
   background-color: #28f175;
 }
 
 .card-img-top {
   height: 300px;
   object-fit: cover;
+  background-color: #28f175;
 }
 
 .label {
@@ -23,6 +24,6 @@ body {
 }
 
 .copy {
-  padding-bottom: 2px;
+  padding-bottom: 20px;
   background-color: #28f175;
 }
